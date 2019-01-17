@@ -2,6 +2,7 @@
 linalg-markov-chains-R
 
 This repository contains demo's in R of 
+
 -numerical linear algebra
 -graph theory
 -markov chains
